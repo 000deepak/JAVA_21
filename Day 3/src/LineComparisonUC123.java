@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class LineComparison {
+public class LineComparisonUC123 {
     public static void main(String[] args){
 
         //taking input points
