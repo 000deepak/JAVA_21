@@ -8,7 +8,7 @@ public class EmpUC4 {
 
       final int isPresent = empCheck();
       switch(isPresent){
-         case 1 :{
+         case 1 :{ // cc-bbc   case colon bracket break colon
             final double wage = calculateWage(20, 8);
             System.out.println("Employee is present for full time");
             System.out.println("Total Employee Wage for full time is: "+ wage);
