@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e7b8216-7c2f-43c5-93d4-5a7dd3933539" name="Changes" comment="" />
+    <list default="true" id="2e7b8216-7c2f-43c5-93d4-5a7dd3933539" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day 3/EmpCheckUC2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day 3/EmpCheckUC3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day 3/EmpCheckUC4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day 3/EmpCheckUC5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day 3/EmpCheckUC6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day 3/LineComparison.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -23,21 +39,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.EmpUC3">
-    <configuration name="EmpUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmpUC1" />
-      <module name="Day 3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmpUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmpUC2" />
-      <module name="Day 3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EmpUC5">
     <configuration name="EmpUC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmpUC3" />
       <module name="Day 3" />
@@ -52,12 +54,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmpUC5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="EmpUC5" />
+      <module name="Day 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpUC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpUC6" />
+      <module name="Day 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumber" />
+      <module name="Day 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmpUC5" />
+        <item itemvalue="Application.EmpUC6" />
+        <item itemvalue="Application.RandomNumber" />
         <item itemvalue="Application.EmpUC3" />
         <item itemvalue="Application.EmpUC4" />
-        <item itemvalue="Application.EmpUC2" />
-        <item itemvalue="Application.EmpUC1" />
       </list>
     </recent_temporary>
   </component>
