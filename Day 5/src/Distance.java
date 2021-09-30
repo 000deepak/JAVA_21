@@ -1,8 +1,15 @@
 public class Distance {
-    public static  void  main(String[]args){
-        double x = Math.floor((Math.random() * 10) % 10);
-        double y = Math.floor((Math.random() * 10) % 10);
-        double length = Math.sqrt(Math.pow((x-0),2) + Math.pow((y-0),2));
-        System.out.println(length);
+
+    static double x = Math.floor((Math.random() * 10) % 10);
+    static double y = Math.floor((Math.random() * 10) % 10);
+
+    public static void main(String[] args) {
+
+        System.out.println("distance from origin is"+" "+Distance.distance(x,y));
+    }
+
+    public static double distance(double x, double y) {
+        double length = Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2));
+        return length;
     }
 }

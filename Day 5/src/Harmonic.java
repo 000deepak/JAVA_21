@@ -8,7 +8,7 @@ public class Harmonic {
         for (double i =1; i <= n; i++) {
             sum =sum+ (1/i);
         }
-        System.out.println(n);
+        System.out.println("sum till "+" "+ n +" "+"th hormonic number is");
         System.out.println(sum);
     }
 }
