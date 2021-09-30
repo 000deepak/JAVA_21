@@ -19,6 +19,6 @@ public class PrimeNo {
             System.out.println("Prime Number");
         else
             System.out.println("Not a Prime Number");
-        sc.close();		                        //closing scanner class(not mandatory but good practice)
+
     }
 }
